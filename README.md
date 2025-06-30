@@ -15,8 +15,10 @@ This project demonstrates how to deploy a personal resume as a static website on
 - **Editor**: VS Code
 
 ## 📦 Folder Structure
+```
   ├── index.html
   ├── style.css
+```
 
 
 
