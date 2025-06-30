@@ -26,6 +26,8 @@ This project demonstrates how to deploy a personal resume as a static website on
 ## ⚙️ CI/CD Pipeline
 
 This project uses GitHub Actions to automate deployment to AWS S3 every time a push is made to the `main` branch.
+![CI](https://github.com/Ishratnoori/Cloud-Based-Resume-Deployment-on-AWS/actions/workflows/main.yml/badge.svg)
+
 
 ---
 
